@@ -7,7 +7,7 @@ import google.generativeai as gen_ai
 load_dotenv()
 
 st.set_page_config(
-    page_title="Chat with Gemini-Pro!",
+    page_title="Come, let's Chat",
     page_icon=":Cowboy Hat Face:",  
     layout="centered",  
 )
