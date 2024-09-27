@@ -6,3 +6,5 @@ This repository is about building a chatbot using Google's Gemini-Pro with strea
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/e6ca5fe3-4ddb-41da-9292-3f120485301d)
+
+Deployed on Streamlit. To make changes in the repo, fork, update the code and submit a pull request.
